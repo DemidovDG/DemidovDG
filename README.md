@@ -1,6 +1,6 @@
 ### I am a software developer.
 
-<details open><summary><h4>Game Sliding Puzzle (MVC pattern)</h4></summary>
+<details><summary><h4>Game Sliding Puzzle (MVC pattern)</h4></summary>
 <p align="left">
 <img src="https://github.com/DemidovDG/DemidovDG/raw/main/picture/project/SlidingPuzzle/sliding-puzzle.gif" width="301" height="374">
 </p>
