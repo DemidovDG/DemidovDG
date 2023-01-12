@@ -1,4 +1,13 @@
-# I am a software developer.
+### I am a software developer.
+
+<details open><summary><h4>Game Sliding Puzzle (MVC pattern)</h4></summary>
+<p align="left">
+<img src="https://github.com/DemidovDG/DemidovDG/raw/main/picture/project/SlidingPuzzle/sliding-puzzle.gif" width="301" height="374">
+</p>
+</details>
+
+---
+
 ![Java](https://img.shields.io/badge/-Java-2F4F4F?style=flat-square)
 ![Spring Framework](https://img.shields.io/badge/-Spring-2F4F4F?style=flat-square&logo=Spring&logoColor=000&labelColor=FFF)
 ![Apache Tomcat](https://img.shields.io/badge/-Tomcat-2F4F4F?style=flat-square&logo=apachetomcat&logoColor=000&labelColor=FFF5EE)
