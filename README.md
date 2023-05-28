@@ -7,8 +7,6 @@
 </details>
 
 ---
-![Python](https://img.shields.io/badge/-Python-2F4F4F?style=flat-square&logo=Python&logoColor=000&labelColor=FFF)
-![FastAPI](https://img.shields.io/badge/-FastAPI-2F4F4F?style=flat-square&logo=FastAPI&logoColor=000&labelColor=FFF)\
 ![Java](https://img.shields.io/badge/-Java-2F4F4F?style=flat-square)
 ![Spring Framework](https://img.shields.io/badge/-Spring-2F4F4F?style=flat-square&logo=Spring&logoColor=000&labelColor=FFF)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-2F4F4F?style=flat-square&logo=hibernate&logoColor=000&labelColor=FFF5EE)
