@@ -1,10 +1,10 @@
 ### I am a software developer.
 
-<details><summary><h4>Game Sliding Puzzle</h4></summary>
+<h4>Game Sliding Puzzle</h4>
 <p align="left">
 <img src="https://github.com/DemidovDG/DemidovDG/raw/main/picture/project/SlidingPuzzle/sliding-puzzle.gif" width="301" height="374">
 </p>
-</details>
+
 
 ---
 ![Java](https://img.shields.io/badge/-Java-2F4F4F?style=flat-square)
